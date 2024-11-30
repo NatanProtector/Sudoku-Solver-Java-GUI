@@ -1,5 +1,7 @@
 ## Sudoku Solver - A Java Solution to the Classic Puzzle
 
+[View on Youtube](https://www.youtube.com/watch?v=12r9o2m8pYo)
+
 ## Description
 An app that solves Sudoku puzzles using a brute-force approach, with a GUI built using the Java Swing library.
 
